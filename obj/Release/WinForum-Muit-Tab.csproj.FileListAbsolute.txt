@@ -1,0 +1,14 @@
+C:\Users\Ghandy\source\repos\WinForum-Muit-Tab\WinForum-Muit-Tab\bin\Release\WinForum-Muit-Tab.exe.config
+C:\Users\Ghandy\source\repos\WinForum-Muit-Tab\WinForum-Muit-Tab\bin\Release\WinForum-Muit-Tab.exe
+C:\Users\Ghandy\source\repos\WinForum-Muit-Tab\WinForum-Muit-Tab\bin\Release\WinForum-Muit-Tab.pdb
+C:\Users\Ghandy\source\repos\WinForum-Muit-Tab\WinForum-Muit-Tab\obj\Release\WinForum_Muit_Tab.Form1.resources
+C:\Users\Ghandy\source\repos\WinForum-Muit-Tab\WinForum-Muit-Tab\obj\Release\WinForum_Muit_Tab.MuitTabMonacro.resources
+C:\Users\Ghandy\source\repos\WinForum-Muit-Tab\WinForum-Muit-Tab\obj\Release\WinForum_Muit_Tab.MuitTabRichtextbox.resources
+C:\Users\Ghandy\source\repos\WinForum-Muit-Tab\WinForum-Muit-Tab\obj\Release\WinForum_Muit_Tab.Properties.Resources.resources
+C:\Users\Ghandy\source\repos\WinForum-Muit-Tab\WinForum-Muit-Tab\obj\Release\WinForum-Muit-Tab.csproj.GenerateResource.cache
+C:\Users\Ghandy\source\repos\WinForum-Muit-Tab\WinForum-Muit-Tab\obj\Release\WinForum-Muit-Tab.csproj.CoreCompileInputs.cache
+C:\Users\Ghandy\source\repos\WinForum-Muit-Tab\WinForum-Muit-Tab\obj\Release\WinForum-Muit-Tab.exe
+C:\Users\Ghandy\source\repos\WinForum-Muit-Tab\WinForum-Muit-Tab\obj\Release\WinForum-Muit-Tab.pdb
+C:\Users\Ghandy\source\repos\WinForum-Muit-Tab\WinForum-Muit-Tab\bin\Release\FastColoredTextBox.dll
+C:\Users\Ghandy\source\repos\WinForum-Muit-Tab\WinForum-Muit-Tab\obj\Release\WinForum-Muit-Tab.csproj.CopyComplete
+C:\Users\Ghandy\source\repos\WinForum-Muit-Tab\WinForum-Muit-Tab\obj\Release\WinForum_Muit_Tab.MuiTabAce.resources
